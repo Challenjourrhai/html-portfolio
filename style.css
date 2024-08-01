@@ -1,0 +1,22 @@
+h1 {
+    text-align: justify;
+}
+
+h2 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+@media (max-width: 480px) {
+    .nav {
+        display: none;
+    }
+}
+
+.footer {
+    margin: 50px;
+    padding: 50px;
+}
